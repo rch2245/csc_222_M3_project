@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "NumberArray.h"
 #include <iostream>
 #include <iomanip>
